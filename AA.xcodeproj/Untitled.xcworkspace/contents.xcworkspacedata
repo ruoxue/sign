@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../../../Downloads/UberSignature-master/Sources/ObjC/Internal/UBCGPointHelpers.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../Downloads/UberSignature-master/Sources/ObjC/Internal/UBSignatureBezierProvider.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../Downloads/UberSignature-master/Sources/ObjC/Internal/UBSignatureBezierProvider.m">
+   </FileRef>
+   <FileRef
+      location = "group:../../../Downloads/UberSignature-master/Sources/ObjC/Internal/UBSignatureDrawingModel.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../Downloads/UberSignature-master/Sources/ObjC/Internal/UBSignatureDrawingModel.m">
+   </FileRef>
+   <FileRef
+      location = "group:../../../Downloads/UberSignature-master/Sources/ObjC/Internal/UBSignatureDrawingModelAsync.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../Downloads/UberSignature-master/Sources/ObjC/Internal/UBSignatureDrawingModelAsync.m">
+   </FileRef>
+   <FileRef
+      location = "group:../../../Downloads/UberSignature-master/Sources/ObjC/Internal/UIBezierPath+UBWeightedPoint.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../Downloads/UberSignature-master/Sources/ObjC/Internal/UIBezierPath+UBWeightedPoint.m">
+   </FileRef>
+   <FileRef
+      location = "group:../../../Downloads/UberSignature-master/Sources/ObjC/UBSignatureDrawingViewController.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../Downloads/UberSignature-master/Sources/ObjC/UBSignatureDrawingViewController.m">
+   </FileRef>
+   <FileRef
+      location = "container:">
+   </FileRef>
+</Workspace>
