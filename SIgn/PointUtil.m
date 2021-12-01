@@ -310,6 +310,7 @@
 {
      
 //    self.uiImage=nil;
+    self.uiImage=nil;
     [self.model reset];
 //    [self _updateViewFromModel:self.model.imageSize];
 }
